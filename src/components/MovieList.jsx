@@ -1,3 +1,5 @@
+// import Movie from "./Movie";
+
 const MovieList=(props)=> {
   return (
     <>

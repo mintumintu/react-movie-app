@@ -10,6 +10,8 @@ body{
 .image-container{
   position: relative;
   transition: transform 0.2s;
+  width: 300px;
+  margin-left:5px;
 }
 
 .image-container:hover{
